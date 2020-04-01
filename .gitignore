@@ -1,2 +1,4 @@
 hand_wash/.settings/
 hand_wash/target/
+hand_wash/dependency-reduced-pom.xml
+hand_wash/hand-wash-application.log
